@@ -43,3 +43,4 @@ def compare_results(image, prediction):
 
     plt.tight_layout()
     plt.show()
+
