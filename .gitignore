@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model
+checkpoints/
+*.pth
+*.pt
+
+# Data
+data/raw/
+data/processed/
+
+# Outputs
+outputs/
+logs/
+
+# Archives
+*.zips
