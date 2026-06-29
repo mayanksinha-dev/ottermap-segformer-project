@@ -177,7 +177,16 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## Pretrained Model
 
+The trained checkpoint is available on Drive:
+
+https://drive.google.com/drive/folders/1JszYZzvzWCK9_3CNROAJOotQhKQGU_SI?usp=sharing
+
+Download `best_model.pth` and place it in:
+
+checkpoints/
+    best_model.pth
 ---
 
 # 🏋️ Training
