@@ -272,7 +272,7 @@ pip install -r requirements.txt
 
 ## Pretrained Model
 
-The trained checkpoint is available on Kaggle:
+The trained checkpoint is available on Drive:
 
 https://drive.google.com/drive/folders/1JszYZzvzWCK9_3CNROAJOotQhKQGU_SI?usp=sharing
 
